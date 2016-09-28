@@ -2,6 +2,7 @@
 https://control.aldryn.com/api/v1/apps/serve/aldryn-addons/1.0.2/24f5d1c8-66fe-43b2-a540-17d61045a72b/aldryn-addons-1.0.2.tar.gz#egg=aldryn-addons==1.0.2
 https://control.aldryn.com/api/v1/apps/serve/aldryn-django/1.8.15.0/fa1a0390-2a86-404a-bf84-9a628f0317a2/aldryn-django-1.8.15.0.tar.gz#egg=aldryn-django==1.8.15.0
 https://control.aldryn.com/api/v1/apps/serve/aldryn-sso/1.1.4/84d52292-3f02-424a-835c-b0e5fda430d7/aldryn-sso-1.1.4.tar.gz#egg=aldryn-sso==1.1.4
+https://control.aldryn.com/api/v1/apps/serve/aldryn-django-cms/3.4.0.5/10b21165-cdf0-4d95-8d38-c2b67460f236/aldryn-django-cms-3.4.0.5.tar.gz#egg=aldryn-django-cms==3.4.0.5
 https://control.aldryn.com/api/v1/apps/serve/aldryn-devsync/1.1.1/3cd345be-2652-4aba-8a10-eb369a3dfbb4/aldryn-devsync-1.1.1.tar.gz#egg=aldryn-devsync==1.1.1
 https://control.aldryn.com/api/v1/apps/serve/djangocms-file/2.0.1.1/08081b8c-36a4-4252-b3b3-a3777073cdec/djangocms-file-2.0.1.1.tar.gz#egg=djangocms-file==2.0.1.1
 https://control.aldryn.com/api/v1/apps/serve/djangocms-googlemap/0.5.2.1/413ea447-e602-42d5-9160-c0c2189bd84b/djangocms-googlemap-0.5.2.1.tar.gz#egg=djangocms-googlemap==0.5.2.1
